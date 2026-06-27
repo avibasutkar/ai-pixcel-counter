@@ -1,0 +1,6 @@
+{
+  "name": "AI Pixel Counter",
+  "description": "AI-Based Object Pixel Counter using Semantic Segmentation",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
